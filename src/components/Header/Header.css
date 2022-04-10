@@ -1,0 +1,15 @@
+.navber {
+    margin-top: 20px;
+}
+
+.navber a {
+    color: rgb(17, 9, 245);
+    text-decoration: none;
+    margin-right: 20px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.navber a:hover {
+    color: rgba(56, 56, 250, 0.725);
+}
